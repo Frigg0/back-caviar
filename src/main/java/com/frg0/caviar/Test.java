@@ -5,6 +5,7 @@ public class Test {
     }
 
     public String rien(){
+        String oui = "ouir";
         return "je ne fais rien";
     }
 }
